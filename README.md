@@ -1,12 +1,12 @@
-# Probability Models (`probability-models`)
+# `probability-models`
 
 A structured collection of Python implementations and mini-projects based on classical probability theory and stochastic modeling.
 
 ## 📌 Mini-Projects Index
 
-| # | Project Name | Primary Theory Covered | Key Python Modules |
+| # | Project Name | Primary Theory Covered |
 |---|---|---|---|
-| **01** | `` |  | ``, `` |
+| **01** |  |  |
 
 ## 🚀 Quickstart
 
