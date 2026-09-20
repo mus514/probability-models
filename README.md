@@ -5,7 +5,7 @@ A structured collection of Python implementations and mini-projects based on cla
 ## 📌 Mini-Projects Index
 
 | # | Project Name | Primary Theory Covered |
-|---|---|---|---|
+|---|---|---|
 | **01** |  |  |
 
 ## 🚀 Quickstart
